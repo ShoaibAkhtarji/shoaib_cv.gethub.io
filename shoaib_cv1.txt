@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY RESUME!</title>
+</head>
+<body>
+        <table border="1" bordercolor="green" align="center" width="60%">
+	<tr><th  bgcolor="green"><h1><font color="white"> WELCOM MY RESUM! </font></h1></th></tr>
+	<tr> <th align="left"> <h2><font size="6"><i> Shoaib Akhter</i></font></h2>
+		<img src="5.jpg" width="100px" height="150" align="right">
+		<ul><strong> Mobile No: </strong>03157304904<br>
+		E-Mail Address: akhshoaib310@gmai.com<br>
+        Address: mainwali<br> 
+	</ul>
+		<h2><i> Personal Information: </i></h2>
+		<ul type="circle">
+			<li>Father Name: Ashraf ali</li>
+			<li>Religion: Islam</li>
+			<li>CNIC: 38302-9050473-7</li>
+			<li>Date Of Birth: 14-08-2000</li>
+			<li>Nationality: Pakistani</li>
+			<li>Gender:<input type="radio" name="Gender" checked="true">Male<input type="radio" name="Gender">Female</li> 
+</ul>
+<h2><i> Qualification:</i></h2>
+        <table border="1" align="center" cellpadding="20" cellspacing="0">
+        	<tr  bgcolor="green"><th><font color="white">Exam</font></th> <th><font color="white">year</font></th> <th><font color="white"> Board/University</font></th></tr>
+        	<tr> <td> Matric(computer science)</td> <td>2014-2016</td> <td>Sargodha Board</td></tr>
+        	<tr><td> Intermidiate(ICS)</td> <td>2017-2019</td> <td>Sargodha Board</td></tr>
+        	<tr><td> BS(information Technology)</td> <td>2019-2023</td> <td>Sargodha university</td></tr>
+        </table>
+        <h2><i> Skills: </i></h2>
+     <input type="checkbox" name="MS World" checked="true">MS World<br>
+   <input type="checkbox" name="MS Exel" checked="true">MS Exel<br>
+  <input type="checkbox" name="MS Power point" checked="true">Ms PowerPoint<br>
+  <input type="checkbox" name="Video Editing" checked="true">Video Editing<br>
+  <input type="checkbox" name="Basic Visual Studio" checked="true">Basic Visual Studio<br>
+  <input type="checkbox" name="Photoshop" checked="true">Photoshop<br>
+
+	</th>
+	</tr>
+</table>
+</body>
+</html>
